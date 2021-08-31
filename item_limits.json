@@ -1,0 +1,19 @@
+{
+    "2020-10-13": {
+        "1" : {
+            "name": "Banana (0.5kg)",
+            "quantity": 30,
+            "category": "F_N_V"
+        },
+        "2" : {
+            "name": "Washington Apple (1 pc)",
+            "quantity": 40,
+            "category": "F_N_V"
+        },
+        "3" : {
+            "name": "Parle-G Biscuit (200g)",
+            "quantity": 30,
+            "category": "Grocery"
+        }
+    }
+}
